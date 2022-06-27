@@ -3,14 +3,33 @@ p {
     margin: 0;
 }
 
+
 .flex-items-center {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
+.flex-justify-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .flex {
     display: flex;
+}
+
+.flex-align-items-center {
+    display: flex;
+    align-items: center;
+}
+
+
+.flex-space-around {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 
 .flex-ajf-center {
@@ -61,4 +80,26 @@ p {
 
 .bgd-color-bebafd {
     background-color: #bebafd;
+}
+
+.font-weight-500 {
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.font-size-1·5 {
+    font-size: 1.5rem;
+}
+
+.ml-0·8 {
+    margin-left: 0.8rem;
+}
+
+.mr-0·5 {
+    margin-right: 0.5rem !important;
+}
+
+.color-7d839f {
+    font-size: 1.4rem;
+    color: #7d839f;
 }

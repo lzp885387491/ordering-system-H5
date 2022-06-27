@@ -3,7 +3,7 @@
     <div class="warp">
       <div class="box">
         <div class="header flex-items-center">
-          <img src="../../assets/icon-zjt.png" class="icon-left-arrow" alt="" />
+          <img src="../../assets/icon-return.png" class="icon-left-arrow" alt="" />
           <div class="title">Local screencast</div>
           <div></div>
         </div>
@@ -18,71 +18,90 @@
           </div>
         </div>
       </div>
-    <div class="rotation-chart flex">
-      <div class="item flex-ajf-center bgd-color-7367fba1 mlr-0·75">
-        <div class="icon-img bgd-color-ffffff94 flex-center">
-          <img src="../../assets/icon-logo.png" alt="" />
+      <div class="rotation-chart flex">
+        <div class="item flex-ajf-center bgd-color-7367fba1 mlr-0·75">
+          <div class="icon-img bgd-color-ffffff94 flex-center">
+            <img src="../../assets/icon-logo.png" alt="" />
+          </div>
+          <div class="pt-2rem">Picture</div>
+          <span class="txt">Local screencast</span>
         </div>
-        <div class="pt-2rem">Picture</div>
-        <span class="txt">Local screencast</span>
-      </div>
-      <div class="item flex-ajf-center bgd-color-ffffff mlr-0·75">
-        <div class="icon-img bgd-color-ffeada flex-center">
-          <img src="../../assets/icon-logo.png" alt="" />
+        <div class="item flex-ajf-center bgd-color-ffffff mlr-0·75">
+          <div class="icon-img bgd-color-ffeada flex-center">
+            <img src="../../assets/icon-logo.png" alt="" />
+          </div>
+          <div class="pt-2rem">Picture</div>
+          <span class="txt">Local screencast</span>
         </div>
-        <div class="pt-2rem">Picture</div>
-        <span class="txt">Local screencast</span>
-      </div>
-      <div class="item flex-ajf-center bgd-color-c2bafd mlr-0·75">
-        <div class="icon-img bgd-color-bebafd flex-center">
-          <img src="../../assets/icon-logo.png" alt="" />
+        <div class="item flex-ajf-center bgd-color-c2bafd mlr-0·75">
+          <div class="icon-img bgd-color-bebafd flex-center">
+            <img src="../../assets/icon-logo.png" alt="" />
+          </div>
+          <div class="pt-2rem">Picture</div>
+          <span class="txt">Local screencast</span>
         </div>
-        <div class="pt-2rem">Picture</div>
-        <span class="txt">Local screencast</span>
-      </div>
-      <div class="item flex-ajf-center bgd-color-7367fba1 mlr-0·75">
-        <div class="icon-img bgd-color-ffffff94 flex-center">
-          <img src="../../assets/icon-logo.png" alt="" />
+        <div class="item flex-ajf-center bgd-color-7367fba1 mlr-0·75">
+          <div class="icon-img bgd-color-ffffff94 flex-center">
+            <img src="../../assets/icon-logo.png" alt="" />
+          </div>
+          <div class="pt-2rem">Picture</div>
+          <span class="txt">Local screencast</span>
         </div>
-        <div class="pt-2rem">Picture</div>
-        <span class="txt">Local screencast</span>
-      </div>
-      <div class="item flex-ajf-center bgd-color-ffffff mlr-0·75">
-        <div class="icon-img bgd-color-ffeada flex-center">
-          <img src="../../assets/icon-logo.png" alt="" />
+        <div class="item flex-ajf-center bgd-color-ffffff mlr-0·75">
+          <div class="icon-img bgd-color-ffeada flex-center">
+            <img src="../../assets/icon-logo.png" alt="" />
+          </div>
+          <div class="pt-2rem">Picture</div>
+          <span class="txt">Local screencast</span>
         </div>
-        <div class="pt-2rem">Picture</div>
-        <span class="txt">Local screencast</span>
-      </div>
-      <div class="item flex-ajf-center bgd-color-c2bafd mlr-0·75">
-        <div class="icon-img bgd-color-bebafd flex-center">
-          <img src="../../assets/icon-logo.png" alt="" />
+        <div class="item flex-ajf-center bgd-color-c2bafd mlr-0·75">
+          <div class="icon-img bgd-color-bebafd flex-center">
+            <img src="../../assets/icon-logo.png" alt="" />
+          </div>
+          <div class="pt-2rem">Picture</div>
+          <span class="txt">Local screencast</span>
         </div>
-        <div class="pt-2rem">Picture</div>
-        <span class="txt">Local screencast</span>
-      </div>
-      <div class="item flex-ajf-center bgd-color-7367fba1 mlr-0·75">
-        <div class="icon-img bgd-color-ffffff94 flex-center">
-          <img src="../../assets/icon-logo.png" alt="" />
+        <div class="item flex-ajf-center bgd-color-7367fba1 mlr-0·75">
+          <div class="icon-img bgd-color-ffffff94 flex-center">
+            <img src="../../assets/icon-logo.png" alt="" />
+          </div>
+          <div class="pt-2rem">Picture</div>
+          <span class="txt">Local screencast</span>
         </div>
-        <div class="pt-2rem">Picture</div>
-        <span class="txt">Local screencast</span>
-      </div>
-      <div class="item flex-ajf-center bgd-color-ffffff mlr-0·75">
-        <div class="icon-img bgd-color-ffeada flex-center">
-          <img src="../../assets/icon-logo.png" alt="" />
+        <div class="item flex-ajf-center bgd-color-ffffff mlr-0·75">
+          <div class="icon-img bgd-color-ffeada flex-center">
+            <img src="../../assets/icon-logo.png" alt="" />
+          </div>
+          <div class="pt-2rem">Picture</div>
+          <span class="txt">Local screencast</span>
         </div>
-        <div class="pt-2rem">Picture</div>
-        <span class="txt">Local screencast</span>
-      </div>
-      <div class="item flex-ajf-center bgd-color-c2bafd mlr-0·75">
-        <div class="icon-img bgd-color-bebafd flex-center">
-          <img src="../../assets/icon-logo.png" alt="" />
+        <div class="item flex-ajf-center bgd-color-c2bafd mlr-0·75">
+          <div class="icon-img bgd-color-bebafd flex-center">
+            <img src="../../assets/icon-logo.png" alt="" />
+          </div>
+          <div class="pt-2rem">Picture</div>
+          <span class="txt">Local screencast</span>
         </div>
-        <div class="pt-2rem">Picture</div>
-        <span class="txt">Local screencast</span>
       </div>
-    </div>
+      <div class="box activity">
+        <div class="activity-top flex-center">
+          <img src="../../assets/icon-yuan.png" alt="" />
+          <div class="menu-info">
+            <div class="font-weight-500">Screen Mirroring...</div>
+            <div class="describe">Modile screen sharing to TV</div>
+          </div>
+        </div>
+        <div class="activity-bottom flex-space-around">
+          <button class="bt flex-center">
+            <img src="../../assets/icon-zt.png" class="icon-bt-img" alt="" />
+            <span class="ml-0·8 bt-info">Time out</span>
+          </button>
+          <button class="bt flex-center">
+            <img src="../../assets/icon-gj.png" class="icon-bt-img" alt="" />
+            <span class="ml-0·8 bt-info">End</span>
+          </button>
+        </div>
+      </div>
     </div>
   </div>
 </template>
@@ -98,7 +117,7 @@ export default {
 
 <style scoped>
 .home {
-  height: 100vh;
+  height: 100%;
   background-color: #c5b0f7;
 }
 .warp {
@@ -106,13 +125,14 @@ export default {
   height: 100%;
   box-sizing: border-box;
   border-radius: 35px;
+  padding-bottom: 3.5rem;
   box-shadow: 1rem -0.2rem 1.5rem #fff;
 }
-.box{
+.box {
   margin: auto;
   width: 31.6rem;
 }
-.header{
+.header {
   padding-top: 4rem;
 }
 .icon-left-arrow {
@@ -166,7 +186,7 @@ export default {
 .rotation-chart {
   margin-top: 3.5rem;
   padding: 0 2.4rem;
-height: 17.3rem;
+  height: 17.3rem;
   overflow-x: scroll;
 }
 .rotation-chart .item {
@@ -189,5 +209,42 @@ height: 17.3rem;
 }
 .item .txt {
   color: #c8cfd6;
+}
+.activity {
+  margin-top: 3.5rem;
+  height: 25.7rem;
+  background-color: #e5e2ff;
+  border-radius: 2.5rem;
+}
+.activity-top {
+  height: 13rem;
+  background-color: #fdfdfb;
+  border-radius: 2rem;
+}
+.menu-info {
+  width: 23rem;
+  box-sizing: border-box;
+  padding-left: 1.4rem;
+}
+.describe {
+  color: #bfc4cc;
+  margin-top: 0.3rem;
+  font-size: 1.5rem;
+}
+.activity-bottom {
+  height: 50%;
+}
+.bt{
+  width: 13.2rem;
+  height: 4.9rem;
+  background-color: #ffffff;
+  border: none;
+  border-radius: 3rem;
+}
+.bt-info{
+  font-size: 1.5rem;
+}
+.icon-bt-img{
+  width: 2rem;
 }
 </style>
